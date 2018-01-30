@@ -24,7 +24,7 @@ body{
 	width:90%;
 	max-width: 600px;
 	color: ##232b2b;
-	top: 50%;
-	left: 50%;
+	top: 80%;
+	left: 100%;
 	transform: translate(-50%, -50%);
 }
